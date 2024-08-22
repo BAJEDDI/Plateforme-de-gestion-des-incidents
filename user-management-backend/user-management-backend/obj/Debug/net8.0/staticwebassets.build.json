@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PFYLCLGm6qAjtQ7NqmFwqhWHqAHO9f3KgryxBc5mZFA=",
+  "Source": "user-management-backend",
+  "BasePath": "_content/user-management-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
